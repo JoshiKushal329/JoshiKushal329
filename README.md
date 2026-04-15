@@ -47,8 +47,8 @@ Most of my time is spent figuring out how to take ML models out of local Jupyter
 ## 📈 GitHub Stats
 *(Note: Replace `yourusername` below to activate these widgets!)*
 
-![Kushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Kushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshiKushal329&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshiKushal329&layout=compact&theme=radical)
 
 ---
 
