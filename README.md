@@ -1,64 +1,61 @@
-# Hi there, I'm Kushal Joshi! 👋🚀
+# Hey, I'm Kushal Joshi! 👋
 
-### 🦾 Robotics Engineer | ☁️ Cloud Architect | 🧠 AI Innovator
-**Building the bridge between Atoms and Bits.**
+### ☁️ Cloud Backend | 🧠 Machine Learning | 🦾 Robotics
+**Mechanical engineering student writing code for scalable systems.**
 
 [![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud-Certified-blue?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
-[![Robotics](https://img.shields.io/badge/Focus-Robotics_&_Automation-red?style=for-the-badge&logo=ros)](https://www.ros.org/)
-[![Status](https://img.shields.io/badge/Status-Building_The_Future-success?style=for-the-badge)]()
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/gujjuvyapari)
+[![GDGC](https://img.shields.io/badge/Community-GDGC_Cloud_Lead-0F9D58?style=for-the-badge&logo=google)](https://gdg.community.dev/)
 
 ---
 
-## ⚡ "I don't just predict the future. I engineer it."
+I’m a pre-final year engineering undergrad at **NIT Surat** (Class of '27). 
 
-I am a **Mechanical Engineering** undergraduate at **NIT Surat** (Class of '27) redefining what's possible at the intersection of **Industrial Automation, Generative AI, and Scalable Cloud Infrastructure**. 
-
-While others are learning the tools, I am mastering the ecosystem. From architecting cloud-native AI platforms to deploying autonomous robots in the real world, my work is about **impact, scale, and precision.**
+Most of my time is spent figuring out how to take ML models out of local Jupyter notebooks and get them running smoothly in production. Whether that means deploying auto-scaling microservices on GCP or writing control systems for a custom-built robotic arm, I like making things work end-to-end. 
 
 ---
 
-## 🛠️ The Arsenal (Tech Stack)
+## 🛠️ What I Work With
 
 | **Domain** | **Technologies & Tools** |
 | :--- | :--- |
-| **🤖 Robotics & Vision** | ROS2, OpenCV, Industrial Automation, YOLO, SLAM |
-| **☁️ Cloud & DevOps** | **Google Cloud Certified (ACE)**, Kubernetes, Docker, CI/CD |
-| **🧠 AI & ML** | NLP, BERT, Transformers, TensorFlow, PyTorch |
-| **💻 Languages** | C++, Python, Dart, SQL |
+| **☁️ Cloud & MLOps** | **GCP (Associate Cloud Engineer)**, Kubernetes (GKE), Docker, CI/CD |
+| **🧠 AI & Data Science** | PyTorch, TensorFlow, OpenCV, BERT, CNN/LSTM |
+| **💻 Languages & Backend**| Python, C++, SQL, Bash, FastAPI, Flask |
+| **🤖 Edge & Hardware** | ROS2, SolidWorks, Raspberry Pi, ESP32 |
 
 ---
 
-## 🏆 The Highlight Reel (Proof of Work)
+## 🚀 What I've Been Building
 
-### 🚀 **Engineering & Innovation**
-* **Autonomous Answer Sheet Evaluator** *(Mar '25 - Sep '25)*: Engineered a robotic system that automates grading, slashing administrative time and eliminating human error.
-* **Scalable AI Learning Platform** *(Jan '25 - Mar '25)*: Built and deployed a high-availability ed-tech platform on GCP, leveraging microservices for massive scale.
-* **Handwritten Text Recognition Engine** *(Sep '24 - Nov '24)*: Developed a high-accuracy OCR system capable of digitizing chaotic human handwriting using Deep Learning.
+### **Software & Cloud**
+* **Scalable AI Cloud Platform:** Built a backend on GCP using Kubernetes (GKE) to run a BERT-based classifier. Scaled it to handle 12,000+ queries with 92% accuracy, and containerized the deployment with Docker to forecast a 40% drop in cloud costs.
+* **Edge-Optimized Vision Engine:** Trained a hybrid ResNet-LSTM vision model to recognize handwriting. Tweaked the feature compression and used a custom CTC loss function to hit 85% accuracy while keeping it light enough for edge deployment.
 
-### 🌟 **Leadership & Impact**
-* **Cloud Computing Lead @ GDGC**: Led a Google Cloud Study Jam with **300+ registrations**, guiding the next generation of cloud engineers.
-* **AI Workshop Mentor**: Facilitated hands-on learning for **500+ participants**, democratizing access to Artificial Intelligence.
-* **Social Impact**: Volunteering at *Karuna Sagar Center*, using tech and education to uplift the underprivileged.
-
-### 🥇 **Awards & Distinctions**
-* **Robowars Finalist (2023)**: Demonstrated engineering resilience in high-stakes combat robotics.
-* **2x Best Film Award (Cinephilia '23, '24)**: Proving that top-tier engineers can also be world-class storytellers.
+### **Hardware & Robotics**
+* **Autonomous Robotic Evaluator:** Designed and 3D-printed a 3-DOF robotic arm. Wrote the control system using ROS2 and C++/Python, and set up an edge-computing OCR pipeline on a Raspberry Pi that cut processing latency by 85%.
 
 ---
 
-## 📈 Stats
+## 🌟 Outside the IDE
+* **Cloud Computing Lead @ GDGC**: Organized a month-long Google Cloud Study Jam, helping 300+ students get hands-on cloud experience and driving 120+ course completions.
+* **Competitive Programming**: Grinding LeetCode (**200+ solved**) to keep my core data structures and algorithms sharp.
+* **Robowars Finalist (2023)**: Built, wired, and fought a combat robot with a 4-person team.
+
+---
+
+## 📈 GitHub Stats
+*(Note: Replace `yourusername` below to activate these widgets!)*
+
 ![Kushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
-## 📬 Connect with a Visionary
+## 📬 Let's Connect
 
-I am currently open to **high-impact engineering roles** in Robotics and AI. If you are building something that challenges the status quo, let's talk.
+I am currently looking for a **SWE or MLE Internship for May/June 2026**. If you're building something interesting and need someone who can push code to production, let's chat.
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://linkedin.com/in/yourprofile)
-[<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' />](https://twitter.com/yourhandle)
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />](mailto:your.email@example.com)
-
----
-*"The best way to predict the future is to invent it."*
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://linkedin.com/in/joshi-kushal)
+[<img src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white' />](https://github.com/JoshiKushal329)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />](mailto:kushaljoshi811@gmail.com)
