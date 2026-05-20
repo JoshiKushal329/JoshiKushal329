@@ -9,7 +9,7 @@ Mechanical engineering student building production-ready systems with cloud, AI,
 
 ---
 
-I’m a pre-final year Mechanical Engineering student at **NIT Surat** (Class of 2027), focused on building scalable software, deploying ML systems, and developing robotics solutions that work end-to-end.
+I’m a final year Mechanical Engineering student at **NIT Surat** (Class of 2027), focused on building scalable software, deploying ML systems, and developing robotics solutions that work end-to-end.
 
 I enjoy turning models and prototypes into reliable systems — whether that means deploying microservices on GCP, setting up CI/CD pipelines, or writing control software for a custom robotic arm.
 
