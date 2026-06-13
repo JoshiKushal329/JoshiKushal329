@@ -1,4 +1,4 @@
-# Hey, I'm Kushal Joshi 👋
+# Hey, I'm Kushal Joshi 
 
 ### Cloud Backend Engineer | Machine Learning | Robotics
 Mechanical engineering student building production-ready systems with cloud, AI, and hardware.
